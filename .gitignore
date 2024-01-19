@@ -1,22 +1,6 @@
 
 *.spp
 
-Models/Robot Arm/substance/Ball/
-
-Models/Robot Arm/substance/Finger/
-
-Models/Robot Arm/substance/Front Ball/
-
-Models/Robot Arm/substance/Main Body/
-
-Models/Robot Arm/substance/Middle Man/
-
-Models/Robot Arm/substance/Plate/
-
-Models/Robot Arm/substance/Shaft/
-
-Models/Robot Arm/substance/Tubes/
-
-Models/Robot Arm/substance/Wrapper/
+Models/Robot Arm/substance/
 
 *.painter_lock
