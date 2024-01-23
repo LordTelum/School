@@ -85,3 +85,5 @@ Models/Robot Arm/substance/
 Models/Robot Arm/images/
 
 *.swatches
+
+*.spp
