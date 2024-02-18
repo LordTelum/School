@@ -3,7 +3,7 @@ I did another retopo of the dragon model and got it down to 4000. and got it tex
 I did a rotopo of the dragon model, I got it down from 380,000 polys to 36,000.
 
 Youtube Update:
-https://youtu.be/2C4eZm4FM8w
+https://youtu.be/hbP7roX2hsw
 
 Added some dragon concept sketches. One is a very simple cute design and the other is a slightly more detailed one.
 
