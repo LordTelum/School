@@ -1,7 +1,9 @@
-I did a rotopo of the dragon model, I got it down from 380,000 polys to 36,000. I am going to go back over it again to get it down to 3,000. I also put a substance on it but I ran out of time for the assignment and I really hate how it turned out. I spent so much time trying to get good clean topology and I didn't leave enough time to substance paint it the way I had envisioned it so I will be redoing that as well. 
+I did another retopo of the dragon model and got it down to 4000. and got it texutured and painted. I added several diffetet height textures to give it a scale look.
+
+I did a rotopo of the dragon model, I got it down from 380,000 polys to 36,000.
 
 Youtube Update:
-https://youtu.be/sp-tEBcXeYA 
+https://youtu.be/2C4eZm4FM8w
 
 Added some dragon concept sketches. One is a very simple cute design and the other is a slightly more detailed one.
 
