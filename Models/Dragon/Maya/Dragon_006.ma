@@ -1,6 +1,6 @@
 //Maya ASCII 2024 scene
 //Name: Dragon_006.ma
-//Last modified: Wed, Apr 24, 2024 08:42:01 PM
+//Last modified: Wed, Apr 24, 2024 08:43:35 PM
 //Codeset: 1252
 requires maya "2024";
 requires -nodeType "RedshiftOptions" -nodeType "RedshiftPostEffects" "redshift4maya" "3.6.00";
@@ -14,17 +14,17 @@ fileInfo "product" "Maya 2024";
 fileInfo "version" "2024";
 fileInfo "cutIdentifier" "202310181224-69282f2959";
 fileInfo "osv" "Windows 11 Pro v2009 (Build: 22631)";
-fileInfo "UUID" "964245EE-4CC9-6635-9B9C-A39D6403329D";
+fileInfo "UUID" "E16B85C0-404A-5F30-1A30-3D8E5EE9001F";
 createNode transform -s -n "persp";
 	rename -uid "9F0B8264-48BD-D118-CC5D-E2BD6988CEC4";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 6.4127670952463589 1.5016310983657126 24.995457877090452 ;
-	setAttr ".r" -type "double3" 726.26164774278436 -1787.3999999997877 -1.018450934261703e-16 ;
+	setAttr ".t" -type "double3" 0.8924962252807731 13.199023272631608 53.135682000723818 ;
+	setAttr ".r" -type "double3" 710.66164774277001 -1799.7999999997101 2.484823483288407e-17 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "79FEF192-4793-AC42-245B-B287ED6FE924";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 26.321634684210768;
+	setAttr ".coi" 54.395919028863553;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -35493,7 +35493,7 @@ createNode animCurveTA -n "Lower_Jaw_Ctrl_rotateZ";
 	setAttr -s 5 ".ktv[0:4]"  24 14.320138591847055 48 -14.982771121733927
 		 92 2.8459415413462059 124 -25.981051859782912 150 14.960497426703045;
 createNode mayaUsdLayerManager -n "mayaUsdLayerManager1";
-	rename -uid "B8C22180-46E7-56A9-5E1D-37951E3EFE62";
+	rename -uid "81A4BFA8-43A8-DD56-D965-6F9F12549E23";
 	setAttr ".sst" -type "string" "";
 select -ne :time1;
 	setAttr ".o" 142;
