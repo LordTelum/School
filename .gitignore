@@ -109,27 +109,8 @@ Models/Character Model/images/masterLayer/diffuse/
 Models/Compositing practive/comp practice 2/video/
 
 # Ignore Unreal Engine auto-generated files
-*.idb
-*.pdb
-*.obj
-*.o
-*.bin
-*.elf
-*.log
-*.tlog
-*.ipch
-*.aps
-*.ncb
-*.scc
-*.dsc
-*.vspscc
-*.vssscc
-*.out
-*.trn
-*.csv
-*.psess
-*.vspx
-*.pidb
-*.opendb
-*.VC.opendb
-*.VC.VC.opendb
+!Build/file.txt
+!*.png
+**/Build
+*.png
+/character.png
